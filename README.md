@@ -1,4 +1,4 @@
-# Fast UAV Exploration - FUEL Algorithm (Simplified Version)
+# AI Drone Exploration - FUEL Algorithm (Simplified Version)
 
 **The project focuses on the autonomous exploration of a virtual environment simulated in PyBullet by a drone in Python.**
 
