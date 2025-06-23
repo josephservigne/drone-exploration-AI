@@ -15,6 +15,9 @@ While a public GitHub repository existed for the FUEL implementation, we decided
 
 The result is a **clean, understandable, and maintainable version of the FUEL algorithm**, designed to serve as a first deliverable for our client.
 
+⚠️ This project is still under development. In particular, the current implementation handles sensor noise poorly, which affects the robustness and performance of the exploration algorithm.
+
+
 ---
 
 ## 📁 Project Structure
