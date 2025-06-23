@@ -4,7 +4,7 @@
 
 ## Context
 
-This project was developed as part of a semester-long academic project at CentraleSupélec. Our client was the start-up **Drakkair**, composed of three students/researchers:  
+This project was developed as part of a semester-long academic project at CentraleSupelec. Our client was the start-up **Drakkair**, composed of three students/researchers:  
 - Nicolas Rosal (CEO)  
 - Clément Mauget (CTO)  
 - Kenzy Barakat (intern and our main contact, currently in the 3rd year at CentraleSupélec)
@@ -52,6 +52,5 @@ python exploration/first_test.py
 
 ## Credits
 
-Developed as part of a team project by 4 students at CentraleSupélec.  
-FUEL algorithm implementation: **[Your Name Here]**  
+Developed as part of a team project by 4 students (2 per algorithm) at CentraleSupelec.  
 Client: Drakkair
