@@ -1,6 +1,6 @@
 # AI Drone Exploration - FUEL Algorithm (Simplified Version)
 
-**The project focuses on the autonomous exploration of a virtual environment simulated in PyBullet by a drone in Python.**
+**The project focuses on the autonomous exploration in 2D of a virtual environment simulated in PyBullet by a drone in Python.**
 
 ## Context
 
@@ -11,7 +11,7 @@ This project was developed as part of a semester-long academic project at Centra
 
 The goal was to support Drakkair in developing two algorithms: **FUEL** and **DPPM**. Although the project involved both, **this repository only contains the FUEL algorithm**, as it is the one I contributed to directly. The related paper can be found as `FUEL.pdf` in the repository.
 
-While a public GitHub repository existed for the FUEL implementation, we decided to start from scratch due to the poor structure of that codebase. It was mostly written in C, which made it difficult to understand and maintain. Additionally, we chose to **restrict the environment to two dimensions** to simplify data processing.
+While a public GitHub repository existed for the FUEL implementation, we decided to start from scratch due to the poor structure of that codebase (+ it was mostly written in C). Additionally, we chose to **restrict the environment to two dimensions** to simplify data processing.
 
 The result is a **clean, understandable, and maintainable version of the FUEL algorithm**, designed to serve as a first deliverable for our client.
 
